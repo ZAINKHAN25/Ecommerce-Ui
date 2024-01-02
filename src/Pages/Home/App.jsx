@@ -8,6 +8,7 @@ function Home() {
   return (
     <div className='homepage'>
         <Navbar/>
+        {/* yahan per slider ai ga */}
     </div>
   )
 }
