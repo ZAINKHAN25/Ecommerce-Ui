@@ -1,0 +1,41 @@
+.IntroductionSection {
+    width: 100vw;
+    height: max-content;
+    background-image: url("https://cdn.shopify.com/s/files/1/2337/7003/articles/1_1.jpg?v=1690273011");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 5%;
+}
+
+.headingofintroductionsection {
+    color: white;
+    font-size: 70px;
+    max-width: 600px;
+    filter: drop-shadow(1px 1px 10px rgba(0, 0, 0, 50%));
+    text-wrap: break-word;
+}
+
+.paraofintroductionsctn {
+    color: white;
+    font-size: 15px;
+    max-width: 700px;
+    filter: drop-shadow(1px 1px 10px rgba(0, 0, 0, 50%));
+    text-wrap: break-word;
+}
+
+.btnareaofintroduction button {
+    padding: 5px 25px;
+    margin: 0 10px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: transparent;
+    font-weight: 700;
+    transition: all .3s;
+}
+
+.btnareaofintroduction button:hover {
+    background-color: rgb(255, 255, 255, 30%);
+    box-shadow: 1px 1px 25px rgba(255, 255, 255, 30%);
+}
