@@ -1,0 +1,16 @@
+.asseenin{
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.asseenin img {
+    width: 180px;
+    flex: 1;
+}
+
+.txtofassenin{
+    flex: 2;
+    text-align: center;
+}
