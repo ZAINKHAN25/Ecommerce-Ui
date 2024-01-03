@@ -14,4 +14,4 @@ function Asseenin() {
     )
 }
 
-export default Asseenin
+export default Asseenin;

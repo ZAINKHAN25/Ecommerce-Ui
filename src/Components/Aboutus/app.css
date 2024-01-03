@@ -1,0 +1,35 @@
+.Aboutusdiv {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+}
+
+.imgofaboutus {
+    width: 800px;
+    background-color: red;
+    margin-right: 10px;
+    height: 480px;
+}
+
+.aboutustxtdiv h3 {
+    font-size: 20px;
+    color: #2270E2;
+}
+
+.aboutustxtdiv h1 {
+    font-size: 43px;
+    margin-bottom: 15px;
+}
+
+.aboutustxtdiv p {
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.aboutustxtdiv span {
+    font-weight: 600;
+    font-size: 15px;
+    border-bottom: 2px solid rgba(0, 0, 0, 70%);
+}
