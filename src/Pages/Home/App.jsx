@@ -5,6 +5,7 @@ import Navbar from '../../Components/Navbar/App.jsx'
 import IntroductionSection from '../../Components/IntroductionSection/App.jsx'
 import Asseenin from '../../Components/Asseenin/App.jsx'
 import Aboutus from '../../Components/Aboutus/App.jsx'
+import Whychoseus from '../../Components/Whychoseus/App.jsx'
 
 
 function Home() {
@@ -14,6 +15,7 @@ function Home() {
       <IntroductionSection />
       <Asseenin />
       <Aboutus />
+      <Whychoseus />
     </div>
   )
 }
