@@ -1,0 +1,54 @@
+.Whychoseus {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F4F8FD;
+}
+
+.pointsdivofchoose {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.headingdivofchose {
+    text-align: center;
+}
+
+.pointdivofchoose {
+    display: flex;
+    flex-direction: column;
+    width: 520px;
+    margin: 10px auto;
+}
+
+.headingdivofchose p {
+    font-size: 15px;
+}
+
+.headingdivofchose h2 {
+    margin-top: 10vh;
+    margin-bottom: 15px;
+    font-size: 38px;
+}
+
+
+.pointdivofchoose {
+    border-bottom: 1px solid rgba(0, 0, 0, 50%);
+    padding-bottom: 15px;
+}
+
+.serialnumber {
+    color: #2270E2;
+    font-weight: 600;
+    font-size: 17.5px;
+}
+
+.pointdivofchoose h4 {
+    font-weight: 400;
+    font-size: 26px;
+    margin-top: 5px;
+}
