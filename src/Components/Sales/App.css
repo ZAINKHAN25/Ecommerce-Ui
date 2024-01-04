@@ -1,0 +1,26 @@
+.Sales {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    flex-direction: column;
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+}
+
+.firstlineofSale {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 5px;
+}
+
+.firstlineofSale {
+    font-size: 24px;
+    font-weight: 450;
+}
+
+.borderBotom {
+    border-bottom: 2px solid rgba(0, 0, 0, 80%);
+    cursor: pointer;
+}

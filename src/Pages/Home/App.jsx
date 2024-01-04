@@ -6,6 +6,7 @@ import IntroductionSection from '../../Components/IntroductionSection/App.jsx'
 import Asseenin from '../../Components/Asseenin/App.jsx'
 import Aboutus from '../../Components/Aboutus/App.jsx'
 import Whychoseus from '../../Components/Whychoseus/App.jsx'
+import Sales from '../../Components/Sales/App.jsx'
 
 
 function Home() {
@@ -16,6 +17,7 @@ function Home() {
       <Asseenin />
       <Aboutus />
       <Whychoseus />
+      <Sales />
     </div>
   )
 }

@@ -1,0 +1,25 @@
+.CardOne img {
+    width: 360px;
+}
+
+.CardOne {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.addtocardone {
+    font-weight: 500;
+}
+
+.saleofcardone {
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    color: white;
+    background-color: #2270E2;
+    border-radius: 50%;
+    font-weight: 600;
+}
