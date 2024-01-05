@@ -1,0 +1,25 @@
+.CardTwo {
+    width: 40vw;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    transform: scale(.95);
+    transition: all .5s;
+}
+
+.CardTwo:hover{
+    transform: scale(1);
+}
+
+.CardTwo h1 {
+    font-size: 75px;
+    font-weight: 400;
+}
+
+.CardTwo h3{
+    font-size: 30px;
+    font-weight: 300;
+}
