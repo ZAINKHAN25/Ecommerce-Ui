@@ -8,6 +8,7 @@ import Aboutus from '../../Components/Aboutus/App.jsx'
 import Whychoseus from '../../Components/Whychoseus/App.jsx'
 import Sales from '../../Components/Sales/App.jsx'
 import Categories from '../../Components/Categories/App.jsx'
+import NewArrivals from '../../Components/NewArrivals/App.jsx'
 
 
 function Home() {
@@ -20,6 +21,7 @@ function Home() {
       <Whychoseus />
       <Sales />
       <Categories/>
+      <NewArrivals />
     </div>
   )
 }

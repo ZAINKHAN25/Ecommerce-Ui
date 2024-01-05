@@ -1,0 +1,25 @@
+.CardThree img {
+    width: 360px;
+}
+
+.CardThree {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.addtoCardThree {
+    font-weight: 500;
+}
+
+.saleofCardThree {
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    font-weight: 600;
+}

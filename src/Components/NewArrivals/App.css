@@ -1,4 +1,4 @@
-.Sales {
+.NewArrivals {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -8,15 +8,14 @@
     padding-right: 10% !important;
 }
 
-.firstlineofSale {
+.firstlineofNewArrival {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    margin: 30px 5px;
     font-size: 24px;
     font-weight: 450;
-    margin: 30px 5px;
 }
-
 
 .borderBotom {
     border-bottom: 2px solid rgba(0, 0, 0, 80%);
