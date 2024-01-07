@@ -24,6 +24,7 @@ function Home() {
       <Categories />
       <NewArrivals />
       <Partner />
+{/*       Aj customer service wala kam bhi karna hai */}
     </div>
   )
 }
