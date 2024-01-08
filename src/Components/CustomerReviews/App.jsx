@@ -3,7 +3,7 @@ import React from 'react'
 function CustomerReviews() {
     return (
         <div>
-            Customer Reviews
+            Customer Reviews si best
         </div>
     )
 }
