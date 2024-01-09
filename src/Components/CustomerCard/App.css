@@ -1,0 +1,32 @@
+.customerreviewcard {
+    width: 400px;
+    border: 1px solid rgba(0, 0, 0, 10%);
+    border-radius: 15px;
+}
+
+.customerdescription {
+    font-size: 15px;
+    color: rgba(0, 0, 0, 70%);
+    font-weight: 500;
+    font-style: italic;
+}
+
+.secondlinecustomerreviewcard {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.secondlinecustomerreviewcard img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50%;
+    margin-right: 15px;
+}
+
+.secondlinecustomerreviewcard h5 {
+    color: #49A078;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 18px;
+}
