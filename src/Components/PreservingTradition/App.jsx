@@ -8,7 +8,7 @@ function PreservingTradition() {
         <p></p>
         <div className="btnareaofpreservinttradition">
             <button></button>
-            <button></button>
+            <button className='button'></button>
         </div>
     </div>
   )
