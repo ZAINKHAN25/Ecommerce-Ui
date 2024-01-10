@@ -11,6 +11,7 @@ import Categories from '../../Components/Categories/App.jsx';
 import NewArrivals from '../../Components/NewArrivals/App.jsx';
 import Partner from '../../Components/Partner/App.jsx';
 import CustomerReviews from '../../Components/CustomerReviews/App.jsx';
+import PreservingTradition from '../../Components/PreservingTradition/App.jsx';
 
 
 function Home() {
@@ -26,6 +27,7 @@ function Home() {
       <NewArrivals />
       <Partner />
       <CustomerReviews/>
+      <PreservingTradition/>
     </div>
   )
 }
