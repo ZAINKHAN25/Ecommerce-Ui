@@ -1,0 +1,11 @@
+.PreservingTradition {
+    width: 100vw;
+    height: 100vh;
+    background: transparent url("https://i.pinimg.com/736x/c8/15/06/c815069a982ea98bd3f217d684376ce4.jpg") no-repeat center;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
