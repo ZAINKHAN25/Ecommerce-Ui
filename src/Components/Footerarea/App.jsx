@@ -2,7 +2,9 @@ import React from 'react'
 
 function Footerarea() {
     return (
-        <div>Footerarea</div>
+        <div className='Footerarea'>
+            softchil_ox
+        </div>
     )
 }
 
