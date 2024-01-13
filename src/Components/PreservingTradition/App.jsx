@@ -1,5 +1,5 @@
 import React from 'react';
-import "./App.css"
+import "./App.css";
 
 function PreservingTradition() {
   return (
@@ -14,4 +14,4 @@ function PreservingTradition() {
   )
 }
 
-export default PreservingTradition
+export default PreservingTradition;

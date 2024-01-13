@@ -12,6 +12,7 @@ import NewArrivals from '../../Components/NewArrivals/App.jsx';
 import Partner from '../../Components/Partner/App.jsx';
 import CustomerReviews from '../../Components/CustomerReviews/App.jsx';
 import PreservingTradition from '../../Components/PreservingTradition/App.jsx';
+import Footerarea from '../../Components/Footerarea/App.jsx';
 
 
 function Home() {
@@ -26,8 +27,9 @@ function Home() {
       <Categories />
       <NewArrivals />
       <Partner />
-      <CustomerReviews/>
-      <PreservingTradition/>
+      <CustomerReviews />
+      <PreservingTradition />
+      <Footerarea />
     </div>
   )
 }
