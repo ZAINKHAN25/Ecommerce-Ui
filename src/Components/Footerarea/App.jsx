@@ -6,4 +6,4 @@ function Footerarea() {
     )
 }
 
-export default Footerarea
+export default Footerarea;
