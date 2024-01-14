@@ -1,1 +1,1 @@
-# It is my e-commerce Mern-Stack Project
+# It is my e-commerce mern-stack project
